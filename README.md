@@ -87,7 +87,7 @@ This is a sample Discord bot app. You can add a bot to your Discord server and u
     ```
 5. Install dependencies: 
     ```{python}
-    pip install -r requrements.txt
+    pip install -r requirements.txt
     ```
 8. Copy `sample_config.json` file as `config.json`.
 9. Update the configuration in `config.json` with your Discord Bot Token
